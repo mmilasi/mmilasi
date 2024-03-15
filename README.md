@@ -30,7 +30,7 @@ public class Main {
 
 ###
 
-<p align="center"><br>Hi, the name's Mary!<br>Class 1990, born under the sign of Gemini, I layed my hands on my first PC at the age of 7 never to let go since. Proud mother of two panther miniatures I'm currently working on strengthening my ability to pay my bills doing something that I am passionate about and that challenges me on a day-to-day basis. <br>I'm currently attending a crash course in Java Development in order to do with a computer what women do best with men: tell them what to do.</p><br><br>
+<p align="center"><br>Hi, the name's Mary!<br>Class 1990, born under the sign of Gemini, I laid my hands on my first PC at the age of 7 never to let go since. Proud mother of two panther miniatures I'm currently working on strengthening my ability to pay my bills doing something that I am passionate about and that challenges me on a day-to-day basis. <br>I'm currently attending a crash course in Java Development in order to do with a computer what women do best with men: tell them what to do.</p><br><br>
 
 ###
 
