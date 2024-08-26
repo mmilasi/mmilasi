@@ -11,12 +11,12 @@
 ```
 public class Main {
   public static void main(String[] args) {
-    JavaDeveloper me = new JavaDeveloper("Mary", 33, "Italy");
-    me.currentlyLearning("Java");
+    JavaDeveloper me = new JavaDeveloper("Mary", 34, "Italy");
+    me.studying("Mobile Development");
   }
 
-  static void currentlyLearning(String subject) {
-    System.out.println("Currently learning: " + subject);
+  public void studying(String subject) {
+    System.out.println("Currently studying: " + subject);
   }
 }
 ```
@@ -24,13 +24,17 @@ public class Main {
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ebanoit/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"></a>
+  <a href="https://www.linkedin.com/in/mmilasi/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"></a>
   <a href="mailto:mamilasinovic@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
 ###
 
-<p align="center"><br>Hi, the name's Mary!<br>Class 1990, born under the sign of Gemini, I laid my hands on my first PC at the age of 7 never to let go since. Proud mother of two panther miniatures I'm currently working on strengthening my ability to pay my bills doing something that I am passionate about and that challenges me on a day-to-day basis. <br>I'm currently attending a crash course in Java Development in order to do with a computer what women do best with men: tell them what to do.</p><br><br>
+<p>🇮🇹 Ciao! Sono Mary, una studentessa 34-enne di sviluppo backend Java e mobile (Android). In un settore in continua evoluzione come quello tecnologico e' essenziale mantenersi
+aggiornati e continuare a formarsi. I continui cambiamenti e le nuove sfide che emergono ogni giorno mi spingono a migliorare costantemente le mie competenze ed aggiungerne altre al mio
+personale tech stack. Ho di recente deciso di dedicare attenzione allo sviluppo mobile Android, un ambito che mi affascina ed appassiona, nella speranza di avere l'occasione di trovare impiego e crescere professionalmente nel settore.<br><br>
+
+🇺🇸 Hi! I'm Mary, a 34-year-old Java backend and mobile (Android) development student. Convinced that in a constantly evolving sector such as the technological one, it is essential to keep up to date and continue training. The continuous changes and new challenges that emerge every day push me to constantly improve my skills and add more of them to my personal tech stack. I recently decided to dedicate attention to Android mobile development, an area that fascinates and excites me, hoping of having the opportunity to find employment and grow professionally in the sector.</p><br><br>
 
 ###
 
