@@ -1,25 +1,10 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/qD6W5DD/linked-COVER.png"  />
+  <img height="200" src="[https://i.ibb.co/qD6W5DD/linked-COVER.png](https://i.ibb.co/sJVn6gR/banner.png)"  />
 </div>
 
 ###
 
 <h2 align="center">👩🏻‍💻 About me</h2>
-
-###
-
-```
-public class Main {
-  public static void main(String[] args) {
-    JavaDeveloper me = new JavaDeveloper("Mary", 34, "Italy");
-    me.studying("Mobile Development");
-  }
-
-  public void studying(String subject) {
-    System.out.println("Currently studying: " + subject);
-  }
-}
-```
 
 ###
 
