@@ -15,7 +15,7 @@
 
 ###
 
-<p>🇮🇹 Ciao! Sono Mary, una studentessa 34-enne di sviluppo backend Java e mobile (Android). Sono un'appassionata di tecnologia - informatica e programmazione e sto studiando per fondere la mia passione con la mia vita professionale. Ho iniziato il mio percorso intraprendendo un corso intensivo full-time semestrale di programmazione Java dove ho avuto modo di vivere la simulazione del modus operandi di un programmatore. Ho lavorato in collaborazione con compagni di corso su progetti pratici, sviluppando soluzioni concrete con metodologie di lavoro Agile tipiche dell'area di sviluppo software. Al momento mi dedico a consolidare le conoscenze acquisite dello sviluppo in Java ed espanderle ulteriormente. Inoltre, mi sto avvicinando all'area di sviluppo mobile in Android, aproffitando di strumenti formativi di Google.<br><br>
+<p>🇮🇹 Ciao! Piacere, sono Mary! Ho 34 anni e attualmente sono iscritta al percorso di specializzazione per le tecnologie applicate in pratiche DevOps per lo sviluppo, il deploy e la gestione delle applicazioni in ambiente Cloud (Cloud Devops) dell'ITS Academy Adriano Olivetti a Cesena. Parallelamente al percorso di studi metto a disposizione a studenti di tutte le eta' privatamente la mia esperienza e passione per l'insegnamento con lezioni di lingua inglese.<br><br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -39,19 +39,14 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div><br>
 
-🇺🇸 Hi! I'm Mary, a 34-year-old student specializing in backend Java and mobile (Android) development. I'm passionate about technology — omputing and programming — and I'm studying to merge my passion with my professional life. I started my journey by enrolling in an intensive six-month, full-time Java programming course, where I had the opportunity to experience a programmer's way of working. I collaborated with my classmates on practical projects, developing concrete solutions using Agile methodologies typical of the software development field. Currently, I'm focusing on consolidating the knowledge I've gained in Java development and expanding it further. Additionally, I'm exploring the field of mobile development in Android, taking advantage of training tools provided by Google.</p>
+🇺🇸 Hi! Nice to meet you, I'm Mary! I'm 34 years old and currently enrolled in the specialization program for applied technologies in DevOps practices for the development, deployment, and management of applications in Cloud environments (Cloud DevOps) at the ITS Academy Adriano Olivetti in Cesena. Alongside my studies, I also offer private English lessons, sharing my experience and passion for teaching with students of all ages.</p>
 ###
 
 
 ###
 
 <div align="center">
-  <a href="https://instagram.com/maryeraoccupato">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  
-  <br/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=mmilasi&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmilasi&theme=shadow_green&hide_border=true" alt="GitHub Streak"><br/>
