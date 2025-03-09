@@ -9,8 +9,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mmilasi/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"></a>
-  <a href="mailto:mamilasinovic@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/mmilasi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"></a>
+  <a href="mailto:mamilasinovic@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
 ###
@@ -55,7 +55,7 @@
   
   <br/>
   
-  <a href="https://buymeacoffee.com/ebanocoding">
+  <a href="https://buymeacoffee.com/ebanocoding" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </div>
